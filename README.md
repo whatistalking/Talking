@@ -9,10 +9,13 @@
 > -  All sensitive data is securely managed and destroyed upon analysis. It may take upto 48 hours fro analysis.
 > -  We value human privacy and sensitivity of this matter.
 
-Installation
--------------------
-#### <i class="icon-download"></i> Download the Windows application.
-#### <i class="icon-gauge"></i>   Install 
+### Installation
+
+> -  Download the Windows application installer
+> - Install 
+> - Run
+
+<img src="https://octodex.github.com/images/yaktocat.png" alt="installer" width="30" height="20">
 
 Hey! I'm your first Markdown document in **StackEdit**[^stackedit]. Don't delete me, I'm very helpful! I can be recovered anyway in the **Utils** tab of the <i class="icon-cog"></i> **Settings** dialog.
 
