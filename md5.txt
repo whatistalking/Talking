@@ -1,0 +1,6 @@
+//
+// File Checksum Integrity Verifier version 2.05.
+//
+                MD5                             SHA-1
+-------------------------------------------------------------------------
+ec84d679daacc7a7f1855465f826a372 402eb7395484d9633d3c7462994986997e91dadb talking_win_x64_v3.exe
