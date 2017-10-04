@@ -24,7 +24,7 @@
 > - Signup is **easy**. Log on to https://app.talking.one/register . Provide all the details and submit.
 > - You will recieve a confirmation mail. To manage genuine users, we ask you click on an activation email. Welcome onboard!
 > - Setup users(your **workforce** ) in https://app.thebitpost.com/#/organization
-	> - 3 Step for Setup: 
+	> 3 Step for Setup: 
 	[1] Add a Department
 	[2] Add Team for Department
 	[3] Add Members(users) for Team
