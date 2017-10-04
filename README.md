@@ -35,8 +35,9 @@
 > - You can view the status of mapping and completed process maps  https://app.talking.one
 
 
-> **Cloud Talking rates:**
+> **Cloud Rates:**
 - USD 100 per Month per Person
+- Contact us for on-premise deplloyment
 
 #### Contact
 
