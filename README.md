@@ -11,7 +11,7 @@
 
 ### Installation
 
-> -  Download the Windows application installer
+> -  Download the Windows application installer (Download here)[Talking_Win_x64_V3.exe]
 > - **Install**  <img src="images/ins1.png" alt="installer" height="120"><img src="images/ins2.png" alt="installer" height="120"><img src="images/ins3.png" alt="installer" height="120"><img src="images/ins4.png" alt="installer" height="120"> .
 > - Obtain & Save License in C:\Talking\talking.cfg folder (**Read Signup section below**)
 > -  Double click on Talking Desktop icon to **Run** <img src="images/desktopicon.png" alt="installer" height="60"> .
