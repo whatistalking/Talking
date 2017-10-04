@@ -23,7 +23,7 @@
 > - TALKING Process Mapping AI Framework is designed to analyse and present process maps followed among your workforce. The processes are discovered by collecting sufficiently large amounts of data to be processed through machine learning specifically designed for this purpose. You can setup **private** analytics or signup for **our Secure & Compliant** processing service.
 > - Signup is **easy**. Log on to https://app.talking.one/register . Provide all the details and submit.
 > - You will recieve a confirmation mail. To manage genuine users, we ask you click on an activation email. Welcome onboard!
-> - Setup users(your **workforce** ) in https://app.thebitpost.com/#/organization
+> - Setup users(your **workforce** ) in https://app.talking.one/#/organization
 
 > 3 Step for Setup: 
 > - > - [1] Add a Department
