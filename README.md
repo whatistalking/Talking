@@ -14,7 +14,7 @@
 > -  Download the Windows application installer
 > - **Install**  <img src="images/ins1.png" alt="installer" height="120"><img src="images/ins2.png" alt="installer" height="120"><img src="images/ins3.png" alt="installer" height="120"><img src="images/ins4.png" alt="installer" height="120"> .
 > - Obtain & Save License in C:\Talking\talking.cfg folder
-> -  **Run** <img src="images/desktopicon.png" alt="installer" height="60"> .
+> -  Double click on Talking Desktop icon to **Run** <img src="images/desktopicon.png" alt="installer" height="60"> .
 > - You can exit the application by Talking icon in taskbar. <img src="images/tray.png" alt="installer" height="60">
 
 
