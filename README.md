@@ -1,8 +1,8 @@
 				Welcome to Talking!
 
-##### Machine Learning Framework for Process Mapping. This service is designed for factory environment of services opertaions.
+##### Machine Learning Framework for Process Mapping. This application is designed for factory environment of opertaions business.
 
- > - Talking Windows App collects process specific structured data for Process Mapper Algorith
+> - Talking Windows App collects process specific structured data for Process Mapper Algorith
 > - Talking Process Making Automation Using Machine Learning
 > - The provided windows app captures the daily activities in a structured manner for machine learning purpose.
 > - Privacy - The Talking App is targeted for industrial applications for discovering the granular level processes followed by various teams. In future versions, you will get more features of blocking sites or apps from being monitored for process mapping.
