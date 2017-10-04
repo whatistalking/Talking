@@ -41,7 +41,7 @@
 
 #### Contact
 
-:email: support@talking.on
+:email: support@talking.one
 
 :link: [Talking.One](https://www.talking.one)
 
