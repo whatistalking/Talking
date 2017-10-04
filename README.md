@@ -27,7 +27,7 @@
 > - The talking.cfg files for each user must be saved in respective computer's folder( **C:\Talking** ), as mentioned in **Installation** section above.
 > - You can view the status of mapping and completed process maps  https://app.talking.one
 
-:email: support@talking.on
-
 #### Contact
+
+:email: support@talking.on
 ### https://www.talking.one
