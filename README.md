@@ -1,6 +1,6 @@
 		Welcome to Talking!
 
-##### Machine Learning Way for Process Mapping
+##### Machine Learning Framework for Process Mapping
 
  > - Talking Windows App collects process specific structured data for Process Mapper Algorith
 > - Talking Process Making Automation Using Machine Learning
@@ -18,9 +18,9 @@
 <img src="images/ins1.png" alt="installer" height="160"><img src="images/ins2.png" alt="installer" height="160"><img src="images/ins3.png" alt="installer" height="160"><img src="images/ins4.png" alt="installer" height="160">
 <img src="images/tray.png" alt="installer" height="60">
 
-> - You can exit the Talking app from tray icon with Talking icon.
+> - You can exit the application by Talking icon in taskbar.
 
-:email: 
+:email: support@talking.on
 
 #### Contact
 ### https://www.talking.one
