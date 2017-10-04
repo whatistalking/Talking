@@ -37,7 +37,7 @@
 
 > **Cloud Rates:**
 - USD 100 per Month per Person
-- Contact us for on-premise deplloyment
+- Contact us for on-premise deployment
 
 #### Contact
 
