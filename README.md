@@ -13,11 +13,19 @@
 
 > -  Download the Windows application installer
 > - **Install**  <img src="images/ins1.png" alt="installer" height="120"><img src="images/ins2.png" alt="installer" height="120"><img src="images/ins3.png" alt="installer" height="120"><img src="images/ins4.png" alt="installer" height="120"> .
-> - Obtain & Save License in C:\Talking\talking.cfg folder
+> - Obtain & Save License in C:\Talking\talking.cfg folder (**Read Signup section below**)
 > -  Double click on Talking Desktop icon to **Run** <img src="images/desktopicon.png" alt="installer" height="60"> .
 > - You can exit the application by Talking icon in taskbar. <img src="images/tray.png" alt="installer" height="30">
 
 
+### Signup
+
+> - TALKING Process Mapping AI Framework is designed to analyse and present process maps followed among your workforce. The processes are discovered by collecting sufficiently large amounts of data to be processed through machine learning specifically designed for this purpose. You can setup **private** analytics or signup for **our Secure & Compliant** processing service.
+> - Signup is **easy**. Log on to https://app.talking.one/register . Provide all the details and submit.
+> - You will recieve a confirmation mail. To manage genuine users, we ask you click on an activation email. Welcome onboard!
+> - Download your license file for each user from https://app.thebitpost.com/#/organization 
+> - The talking.cfg files for each user must be saved in respective computer's folder( **C:\Talking** ), as mentioned in **Installation** section above.
+> - You can view the status of mapping and completed process maps  https://app.talking.one
 
 :email: support@talking.on
 
