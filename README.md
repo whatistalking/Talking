@@ -2,10 +2,10 @@
 
 ##### Machine Learning Framework for Process Mapping. This application is designed for factory environment of opertaions business.
 
-> - Talking Windows App collects process specific structured data for Process Mapper Algorith
-> - Talking Process Making Automation Using Machine Learning
+> - Talking Windows App collects process specific structured data for Process Mapper Algorithm
+> - The system works by using our proprietary Machine Learning and computer vision techniques.
 > - The provided windows app captures the daily activities in a structured manner for machine learning purpose.
-> - Privacy - The Talking App is targeted for industrial applications for discovering the granular level processes followed by various teams. In future versions, you will get more features of blocking sites or apps from being monitored for process mapping.
+> - Privacy - We value your privacy. All captured data is deleted within 48 hours(~ after completion of analysis to find process maps.) The Talking App is built for industrial applications for discovering the granular level processes followed by various teams. In future versions, you will get more features of blocking sites or apps from being monitored for process mapping.
 > -  All sensitive data is securely managed and destroyed upon analysis. It may take upto 48 hours fro analysis.
 > -  We value human privacy and sensitivity of this matter.
 
