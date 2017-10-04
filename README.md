@@ -17,9 +17,9 @@
 > - Run
 
 > - <img src="images/ins1.png" alt="installer" height="160"><img src="images/ins2.png" alt="installer" height="160"><img src="images/ins3.png" alt="installer" height="160"><img src="images/ins4.png" alt="installer" height="160">
-<img src="images/tray.png" alt="installer" height="60">
+> - You can exit the application by Talking icon in taskbar. <img src="images/tray.png" alt="installer" height="60">
 
-> - You can exit the application by Talking icon in taskbar.
+
 
 :email: support@talking.on
 
