@@ -34,6 +34,10 @@
 > - The talking.cfg files for each user must be saved in respective computer's folder( **C:\Talking** ), as mentioned in **Installation** section above.
 > - You can view the status of mapping and completed process maps  https://app.talking.one
 
+
+> **Cloud Talking rates:**
+- USD 100 per Month per Person
+
 #### Contact
 
 :email: support@talking.on
@@ -41,5 +45,3 @@
 :link: [Talking.One](https://www.talking.one)
 
 
-> **Pricing:**
-- USD 100 per Month per Person
