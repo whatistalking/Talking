@@ -38,7 +38,7 @@
 
 :email: support@talking.on
 
-:link:  ### https://www.talking.one
+:link: [Talking.One](https://www.talking.one)
 
 
 > **Pricing:**
